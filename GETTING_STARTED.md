@@ -123,6 +123,8 @@ example usage. For further usage, use the script's ``--help`` option.
 
 # Programming with Concrete
 
+Below we describe the specifics for using Concrete from [Python](#python) or [Java](#java).
+
 ## Python
 
 As it happens, a good introductory example usage of Concrete is our handy
