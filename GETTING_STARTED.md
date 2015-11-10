@@ -23,6 +23,32 @@ done the hard work of running a variety of tools, such as, Stanford's NLP
 pipeline and HLTCOE/JHU NLP tools, on an abundance of data. For more information
 on data release, see the Concrete homepage.
 
+## Table of Contents
+
+* [Getting started](#getting-started)
+  * [What is Concrete?](#what-is-concrete?)
+  * [Table of](#table-of)
+  * [Step 0: Install concrete-python](#step-0:-install-concrete-python)
+  * [Step 1: Get some data.](#step-1:-get-some-data.)
+  * [Step 2: What's in this file?](#step-2:-what's-in-this-file?)
+    * [2.1 Quicklime Communication viewer](#2.1-quicklime-communication-viewer)
+    * [2.2 Command-line tools](#2.2-command-line-tools)
+      * [2.2.1 CoNLL-style output.](#2.2.1-conll-style-output.)
+      * [2.2.2 Parse tree](#2.2.2-parse-tree)
+* [Programming with Concrete](#programming-with-concrete)
+  * [Python](#python)
+    * [Installation](#installation)
+    * [Read a Communication from a file](#read-a-communication-from-a-file)
+    * [Walk the Data Structures](#walk-the-data-structures)
+    * [Iterate over sentences and print taggings](#iterate-over-sentences-and-print-taggings)
+    * [Print Entities](#print-entities)
+    * [Print SitationMentions](#print-sitationmentions)
+  * [Java](#java)
+    * [Installation](#installation)
+    * [Read a Communication from a file](#read-a-communication-from-a-file)
+    * [Iterate over sentences](#iterate-over-sentences)
+    * [Get the entities and situations](#get-the-entities-and-situations)
+
 ## Step 0: Install concrete-python
 
 ```
